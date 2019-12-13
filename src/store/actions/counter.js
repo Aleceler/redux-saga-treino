@@ -1,4 +1,4 @@
 
 export const increment = 'INCREMENT'
-export const decrement = 'DECREMENT'
-export const valor = 'VALOR'
+export const decrement =  'DECREMENT'
+export const valor =  'VALOR'
